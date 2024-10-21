@@ -1,2 +1,2 @@
-# racunalniski-praktikum
-#računalniški praktikum
+# računalniški praktikum
+#racunalniški-praktikum
